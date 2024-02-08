@@ -1,0 +1,10 @@
+{
+  "Servers": {
+    "Industrial":{
+      "Name": "Hi-Tech",
+      "MinecraftVersion" : "1.19.2",
+      "ForgeVersion": "43.3.7",
+      "Description": "Наш первый сервер, индустриальная сборка основанная на таких модах как Create, Ic2Classic и AE2"
+    }
+  }
+}
